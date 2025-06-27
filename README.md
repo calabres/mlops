@@ -11,3 +11,5 @@ git status
 git commit -m 'homework solution' 
 
 git push .
+
+create folder : mkdir models!
