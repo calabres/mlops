@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops/02-MLflow/mlruns/962982280030601463
+creation_time: 1751229434983
+experiment_id: '962982280030601463'
+last_update_time: 1751229434983
+lifecycle_stage: active
+name: nycf-taxi-experiment
